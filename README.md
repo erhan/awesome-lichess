@@ -35,7 +35,3 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Contributing
 
 Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) to suggest a resource or improve the list.
-
-## Footnotes
-
-This is an independent community project, not affiliated with or officially endorsed by Lichess.

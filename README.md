@@ -6,20 +6,38 @@ A community-curated directory of tools, projects, guides, articles, and resource
 
 ## Contents
 
+- [Apps and Clients](#apps-and-clients)
 - [Community Events and Tournaments](#community-events-and-tournaments)
 - [Analysis and Training](#analysis-and-training)
+- [Streaming](#streaming)
 - [Chess Engines and Bots](#chess-engines-and-bots)
 - [Development and Data](#development-and-data)
 
+## Apps and Clients
+
+- [Lichess Mobile App](https://lichess.org/app) - Official mobile app information and downloads for playing, solving puzzles, and analyzing games.
+
 ## Community Events and Tournaments
 
+- [Lichess Bullet League Statistics](https://rochadeeuropa.de/wp-content/uploads/bullet/lichess-bullet-league-stats.html) - Tournament history and team and player statistics for the Lichess Bullet League.
+- [Lichess Bundesliga Statistics](https://rochadeeuropa.de/wp-content/uploads/bundesliga/lichess-bundesliga-stats.html) - Results and team and player leaderboards across Bundesliga divisions and editions.
 - [Lichess Ladders](https://lichessladders.com) - Challenge-based ladders for classical, correspondence, and other formats on Lichess.
+- [Lichess Leagues and Streamer Battles](https://lichess.org/page/leagues-and-battles) - Official introduction to recurring community leagues and team battles, with participation and statistics links.
+- [Lichess Mega Battle Statistics](https://rochadeeuropa.de/wp-content/uploads/mega/lichess-mega-battle-stats.html) - Tournament history and team and player statistics for the Lichess Mega Battle.
+- [Lichess Rapid League Statistics](https://rochadeeuropa.de/wp-content/uploads/rapid/lichess-rapid-league-stats.html) - Results and team and player leaderboards across Rapid League divisions and editions.
+- [Lichess Streamer Arena Statistics](https://rochadeeuropa.de/wp-content/uploads/streamer/lichess-streamer-arena-stats.html) - Tournament history and player and team leaderboards for streamer competitions.
 - [Lichess4545](https://www.lichess4545.com/team4545) - Team league with one scheduled 45+45 game per player each week on Lichess.
 
 ## Analysis and Training
 
+- [Lichess Coaches](https://lichess.org/coach) - Directory of titled chess coaches, with profiles and filters for language and country.
+- [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
 - [Listudy](https://listudy.org/en) - Practice opening repertoires with spaced repetition, including repertoires imported from Lichess studies.
 - [OpeningTree](https://www.openingtree.com) - Explore a player's opening repertoire and results using their Lichess games.
+
+## Streaming
+
+- [Lichess Streamers](https://lichess.org/streamer) - Discover live chess streams and streamer profiles, with links to the streamer community and kit.
 
 ## Chess Engines and Bots
 
@@ -35,3 +53,5 @@ A community-curated directory of tools, projects, guides, articles, and resource
 ## Contributing
 
 Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) to suggest a resource or improve the list.
+
+Support the platform through [Lichess Patron](https://lichess.org/patron), which accepts one-time and recurring donations to fund Lichess.

@@ -2,7 +2,7 @@
 
 ## Growing the list
 
-The first pass contains four topic categories and nine resources. Keep additions focused on useful resources with a clear Lichess connection. Add categories only when there are entries to populate them, and keep `Contents` synchronized with the resource headings.
+Keep additions focused on useful resources with a clear Lichess connection. Add categories only when there are entries to populate them, and keep `Contents` synchronized with the resource headings.
 
 ## Checks
 

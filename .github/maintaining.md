@@ -1,8 +1,8 @@
 # Maintaining Awesome Lichess
 
-## Foundation stage
+## Growing the list
 
-The README intentionally has no resource categories or entries yet. Add `Contents` as its first section when adding curated categories. Do not create empty categories just to satisfy a linter.
+The first pass contains four topic categories and nine resources. Keep additions focused on useful resources with a clear Lichess connection. Add categories only when there are entries to populate them, and keep `Contents` synchronized with the resource headings.
 
 ## Checks
 

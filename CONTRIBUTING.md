@@ -9,14 +9,14 @@ Help people discover useful resources across the Lichess ecosystem. You can sugg
 - Welcome both official and independent resources, including software, documentation, tutorials, and articles. Open-source projects are encouraged; useful proprietary resources may also qualify, with costs or access restrictions disclosed.
 - Check that the resource is accessible, accurately described, documented where applicable, and still useful. Do not add abandoned, archived, or deprecated software to the main list. Older articles may qualify if their information remains accurate.
 - Favor quality over quantity. Popularity, star counts, and engine strength are not requirements. Small projects can qualify when they provide clear value.
-- Self-nominations are welcome. Disclose your connection to the resource; the same criteria apply to contributors' and maintainers' own projects.
+- Self-nominations are welcome; the same inclusion criteria apply to all projects.
 - Exclude tools designed to facilitate cheating or violate [Lichess fair-play rules](https://lichess.org/page/fair-play). Describe legitimate analysis and bot tools in terms of their intended use.
 
 Submissions are suggestions, not guarantees of inclusion. Maintainers review relevance, quality, and accuracy before accepting an entry.
 
 ## Organization and entry format
 
-Organize resources by topic, not format: articles and tutorials belong alongside the projects they relate to. Give each resource one primary home and avoid duplicate entries. Categories will be established as the list grows; suggest a topic in your issue or pull request without adding empty headings.
+Organize resources by topic, not format: articles and tutorials belong alongside the projects they relate to. Give each resource one primary home and avoid duplicate entries. Use an existing category where possible; suggest a new topic in your issue or pull request when needed, without adding empty headings.
 
 Use this format for entries:
 
@@ -37,8 +37,8 @@ Use this format for entries:
 1. Read the README and search existing entries, issues, and pull requests for duplicates.
 2. Check the link and evaluate the resource yourself.
 3. Open an issue if you want to suggest an addition without editing Markdown. Include its link, Lichess connection, and the reason you recommend it.
-4. For a pull request, keep the change focused and explain your evaluation. Include any relevant affiliation, access restrictions, or maintenance concerns.
-5. Update the `Contents` links when adding or renaming a resource category once the list has categories.
+4. For a pull request, keep the change focused and explain your evaluation. Include any relevant access restrictions or maintenance concerns.
+5. Update the `Contents` links when adding or renaming a resource category.
 
 Resource selection and recommendations must reflect human judgment. Do not submit bulk AI-generated lists or descriptions you have not verified.
 

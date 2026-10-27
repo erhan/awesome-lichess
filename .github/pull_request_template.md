@@ -4,7 +4,7 @@ Explain what this changes and why it helps readers. For a new resource, describe
 
 ## Relevant context
 
-Disclose any affiliation with the resource and mention costs, access restrictions, or maintenance concerns. Mark this as not applicable for routine fixes.
+Mention costs, access restrictions, or maintenance concerns. Mark this as not applicable for routine fixes.
 
 ## Checklist
 

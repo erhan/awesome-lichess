@@ -18,7 +18,7 @@ Where would someone look for this resource?
 
 ## Additional context
 
-Mention any affiliation, costs, access restrictions, or maintenance concerns.
+Mention any costs, access restrictions, or maintenance concerns.
 
 ## Checklist
 

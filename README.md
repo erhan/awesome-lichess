@@ -45,6 +45,7 @@ A community-curated directory of tools, projects, guides, articles, and resource
 - [Lichess Studies](https://lichess.org/study) - Browse and create annotated games, opening repertoires, and interactive lessons with collaborative analysis.
 - [Listudy](https://listudy.org/en) - Practice opening repertoires with spaced repetition, including repertoires imported from Lichess studies.
 - [OpeningTree](https://www.openingtree.com) - Explore a player's opening repertoire and results using their Lichess games.
+- [Vilka](https://neurochess.ru/) - Imports your Lichess games, finds mistakes with Stockfish and explains each one in plain language, then turns them into spaced-repetition drills. Russian-language interface; free tier with a daily limit on explanations, paid plan removes it.
 
 ## Streaming
 
